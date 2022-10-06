@@ -3,7 +3,7 @@
 # Anotações do módulo Prepare-se para a Jornada :guardsman: <h1>
 Olá! Bem vindo ao meu book de anotações :wave: :smile: :blue_book:
  
-![Tuxy, GitHub mascot](/dio-desafio-github-primeiro-repositorio/assets/images/GitHub.jpg)
+![Tuxy, GitHub mascot](/assets/images/GitHub.jpg)
 
 ## Introdução :loudspeaker:
 
