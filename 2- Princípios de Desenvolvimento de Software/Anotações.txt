@@ -94,7 +94,7 @@ Chave SSH e Token
 - Chave SSH - conexao segura e encriptada entre duas maquinas; duas chaves, publica e privada; 
 - cat id_ed25516.pub -> Para visualizar o conteudo das chaves
 - pwb -> Mostra o caminho completo de qual pasta vc ta no git bash
--  eval $(ssh-agent -s) -> Cria um agente que fica responsável de cuidar das chave (o nº gerado varia, é como se estivesse startando um projeto pra rodar em um plano de fundo
+- eval $(ssh-agent -s) -> Cria um agente que fica responsável de cuidar das chave (o nº gerado varia, é como se estivesse startando um projeto pra rodar em um plano de fundo
 - ssh-add id_ed25519 (como no exemplo do curso nos já estamos na pasta .ssh que contem o arquivo que vai receber a info, usa-se esse script)-> Entregar a chave privada para o agente add pq toda vez que chegar uma criptografia com essa chave ele vai usar essa chave privada para descriptografar essa mensagem
 - Clonar um repositorio (git@github.com:wberaldo92/wberaldo.git
 	- Não fiz pq ele disse que estava copiando um diretorio de site que ele ja tem e como ele nao ensinou a criar um diretorio do zero, nao fiz
@@ -127,12 +127,10 @@ m é um flag git commit
 - 
 Local dos arquivos da aula: C:\workspace\livro-receitas
 
-
 USAR USER.NAME AO INVES DE USER.NICKNAME
 
 
 28/09/2022
-
 
 Passo a passo no ciclo de vida
 - GIT INTI
