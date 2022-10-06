@@ -3,7 +3,7 @@
 # Anotações do módulo Prepare-se para a Jornada :guardsman: <h1>
 Olá! Bem vindo ao meu book de anotações :wave: :smile: :blue_book:
  
-![Tuxy, GitHub mascot](\workspace\Desafio-Projeto-DIO\dio-desafio-github-primeiro-repositorio\assets\images/GitHub.jpg)
+![Tuxy, GitHub mascot](/dio-desafio-github-primeiro-repositorio/assets/images/GitHub.jpg)
 
 ## Introdução :loudspeaker:
 
@@ -80,5 +80,5 @@ Olá! Bem vindo ao meu book de anotações :wave: :smile: :blue_book:
 * react native
  
  ## Links Úteis :link:
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/) <br>
 [Lista completa de Markdown emojis para Github](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)
