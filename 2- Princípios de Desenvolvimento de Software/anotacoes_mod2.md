@@ -83,7 +83,7 @@ Comandos
 * Clonar um repositorio (git@github.com:wberaldo92/wberaldo.git
 	* Não fiz pq ele disse que estava copiando um diretorio de site que ele ja tem e como ele nao ensinou a criar um diretorio do zero, nao fiz
 
-## TOKEN DE ZCESSO PESSOAL - segunda forma de autenticação segura que o github fornece :minidisc:
+## TOKEN DE ZCESSO PESSOAL (segunda forma de autenticação segura que o github fornece):minidisc:
 
 ### Iniciando o Git e criando um commit
 ### Primeiros comando com o GIT
