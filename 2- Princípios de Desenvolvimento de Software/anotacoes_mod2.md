@@ -58,6 +58,7 @@ Comandos
 * del / rmdir ou rm -rf - deletar os arquivos
 
 ## Realizando a instalação do GIT :mag:
+* Entrar no site do git e ir em downloads
 
 ## Tópicos fundamentais para entender o funcionamento do Git :loop:
 * SHA1
@@ -153,9 +154,8 @@ NOTA: USAR USER.NAME AO INVES DE USER.NICKNAME
 ### Mostra repositórios ocultos
 	* ls -a
 
-
  ## Links Úteis :link:
 [Treinar Raciocínio Lógico](https://www.google.com/search?q=treinar+racioc%C3%ADnio+l%C3%B3gico&oq=treinar+rac&aqs=chrome.1.69i57j0i22i30l2j0i15i22i30j0i22i30l6.2671j0j7&sourceid=chrome&ie=UTF-8) <br>
 [Algoritimos em portugol](https://portugol-webstudio.cubos.io/) <br>
-
+[Git Downloads](https://git-scm.com/downloads) <br>
 
