@@ -17,10 +17,10 @@ Olá! Bem vindo ao meu book de anotações :wave: :smile: :blue_book:
 
 * Estudo de caso aplicado: Adivinhe um número
 
-## 2- Introdução a lógica de programação pg 210
+## 2- Introdução a lógica de programação pg 210 :trident:
 * O que é lógica?
 
-### Técnicas de lógica de programação
+### Técnicas de lógica de programação :slot_machine:
 * Técnicas: Linear; estruturada e modular
 
 * Tipologia e variáveis
@@ -33,7 +33,7 @@ Olá! Bem vindo ao meu book de anotações :wave: :smile: :blue_book:
 
 * Algoritimos em portugol
 
-## Introdução ao Git e ao GitHub
+## Introdução ao Git e ao GitHub :smile_cat:
 ### Entendendo o que é GIT e sua importância
 
 ### Navegação via command line interface e instalação
@@ -57,9 +57,9 @@ Comandos
 * mkdir - criar diretorios
 * del / rmdir ou rm -rf - deletar os arquivos
 
-## Realizando a instalação do GIT
+## Realizando a instalação do GIT :mag:
 
-## Tópicos fundamentais para entender o funcionamento do Git
+## Tópicos fundamentais para entender o funcionamento do Git :loop:
 * SHA1
 	* Algoritimo de hash seguro
 	* conj de caracteres de 40 digitos
@@ -67,13 +67,13 @@ Comandos
 * Sistema distribuido
 * Segurança
 
-## Objetos internos do Git
+## Objetos internos do Git :cd:
 * Blobs - guarda o sha dos arquivos
 * trees - armazena os blob; aponta para um blob; guarda as estruturas; uma tree aponta p/ outra tree
 * commits - obj que junta tudo; aponta para a tree, parente e o autor; ele da um significado para todos os dados; O SHA1 desse commil é o hash de toda a essa info
 * Sistema distribuido seguro - 
 
-## Chave SSH e Token
+## Chave SSH e Token :crystal_ball:
 * Chave SSH - conexao segura e encriptada entre duas maquinas; duas chaves, publica e privada; 
 * cat id_ed25516.pub -> Para visualizar o conteudo das chaves
 * pwb -> Mostra o caminho completo de qual pasta vc ta no git bash
@@ -82,7 +82,7 @@ Comandos
 * Clonar um repositorio (git@github.com:wberaldo92/wberaldo.git
 	* Não fiz pq ele disse que estava copiando um diretorio de site que ele ja tem e como ele nao ensinou a criar um diretorio do zero, nao fiz
 
-## TOKEN DE ZCESSO PESSOAL - segunda forma de autenticação segura que o github fornece
+## TOKEN DE ZCESSO PESSOAL - segunda forma de autenticação segura que o github fornece :minidisc:
 
 ### Iniciando o Git e criando um commit
 ### Primeiros comando com o GIT
@@ -95,13 +95,13 @@ Comandos
 * git commit - criar o commit
 * Quando estamos lidando com o terminal, colocamos sempre na frente o nome do programa, exemplo do git "alguma coisa"
 
-## CRIANDO UM REPOSITORIO
+## CRIANDO UM REPOSITORIO :bulb:
 * ls -a -> Ver pastas ocultas
 * Como é a primeira vez que vai mexer com o git, precisamos realizar algumas confirgurações iniciais com base em um autor para ficar atrelado (user name e email)
 * git config --global user.email "wellington.beraldo92@gmail.com"
 * git config --global user.name Wberaldo
 
-## ADICIONANDO UM ARQUIVO
+## ADICIONANDO UM ARQUIVO :unlock:
 * Markdown
 * Navegador
 * HTML
@@ -123,7 +123,7 @@ NOTA: USAR USER.NAME AO INVES DE USER.NICKNAME
 * echo > README.md
 * git commit -m "adiciona index"
 
-## Trabalhando com o GitHub
+## Trabalhando com o GitHub :mortar_board:
 * git config --list -? -> verifica as config da pasta
 * git config --global --unset user.name -> Remove o atributo unser.name
 * git config --global user.name "wberaldo92" -> Adiciona o atributo
@@ -137,7 +137,7 @@ NOTA: USAR USER.NAME AO INVES DE USER.NICKNAME
 ### Enviar o código que alteramos no PC para o GitHub (empurrado por isso do push)
 	* git push origin master
 
-## Como os conflitos acontecem no GitHub e como resolvê-los
+## Como os conflitos acontecem no GitHub e como resolvê-los :dart:
 
 ### Puxar as alterações que estao no github para o seu PC
 	* git pull origin master
